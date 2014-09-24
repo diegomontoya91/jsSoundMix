@@ -127,7 +127,7 @@ Mapas de navegación
 ![](media/Index.png)
 ###### Pagina del la aplicación
 ![](media/App.png)
-###### Diagrama de Despliegue - Responsable (DM)
+#### Diagrama de Despliegue - Responsable (DM)
 ![](media/diagramaDespliegue.png)
 
-###### Bibliografía
+#### Bibliografía
